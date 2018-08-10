@@ -305,6 +305,10 @@ There are three challenges we need you to solve. Code your solution in `index.js
 
 ![Good luck](https://user-images.githubusercontent.com/17556281/28846833-e671480c-76da-11e7-9285-17b5c592e065.gif)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-basics-arithmetic-lab/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-basics-arithmetic-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 - MDN
   + [Basic math in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
